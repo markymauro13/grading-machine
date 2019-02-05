@@ -1,6 +1,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+* Code created by @ markymauro
+*/
+
 public class gradingMachine {
 
 	public static void main(String[] args) {
